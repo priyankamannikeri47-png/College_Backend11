@@ -1,7 +1,10 @@
 # College Management API
 
 
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/1a499c9b-a271-480b-a73b-6cf9ff31dde2" />
+Install Dependencies 
+npm install
+Put environment variable by creating .env file
+JWT_SECRET=your_super_secret_jwt_key_here
 <img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/ef1d3862-20bc-44d0-b2cd-8068f474a0a8" />
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/0568cabf-6e92-44cd-b7b4-901e04b3a0ae" />
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/5d86725d-2f0d-4791-8475-c692a3c2f7b0" />
